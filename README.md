@@ -53,3 +53,11 @@ MIT License
 ---
 
 Part of the **BlackRoad Empire** 🚀
+
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [BlackRoad Operating System](https://github.com/blackboxprogramming/BlackRoad-Operating-System) | Edge computing OS for Pi fleet |
+| [BlackRoad AI Dashboard](https://github.com/blackboxprogramming/blackroad-ai-dashboard) | Real-time AI fleet monitoring |
+| [BlackRoad Chrome Extension](https://github.com/blackboxprogramming/blackroad-chrome-extension) | Browser extension for fleet monitoring |
