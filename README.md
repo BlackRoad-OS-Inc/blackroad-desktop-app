@@ -1,63 +1,41 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-desktop-app.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-desktop-app)
-[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-desktop-app.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-desktop-app/fork)
+<div align="center">
 
-# BlackRoad Desktop App 🖥️
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
-Cross-platform desktop app built with Electron!
+# blackroad-desktop-app
 
-## Features
+**BlackRoad Desktop — Cross-platform Electron app with fleet monitoring, deploy management, system tray, IPC handlers, and real-time Pi node health checks. macOS/Windows/Linux.**
 
-- **System Tray** - Always accessible
-- **Live Dashboard** - Real-time metrics
-- **Notifications** - Native notifications
-- **Dark Mode** - Beautiful dark theme
-- **Offline Mode** - Works offline
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
 
-## Download
+</div>
 
-- [macOS](link)
-- [Windows](link)
-- [Linux](link)
-
-## Development
-
-```bash
-npm install
-npm start
-```
-
-## Build
-
-```bash
-# macOS
-npm run build:mac
-
-# Windows
-npm run build:win
-
-# Linux
-npm run build:linux
-```
-
-## Tech Stack
-
-- Electron
-- HTML/CSS/JavaScript
-- Node.js
-
-## License
-
-MIT License
+<div align="center">
+<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
+</div>
 
 ---
 
-Part of the **BlackRoad Empire** 🚀
+## Overview
 
-## Related Projects
+BlackRoad Desktop — Cross-platform Electron app with fleet monitoring, deploy management, system tray, IPC handlers, and real-time Pi node health checks. macOS/Windows/Linux.
 
-| Project | Description |
-|---------|-------------|
-| [BlackRoad Operating System](https://github.com/blackboxprogramming/BlackRoad-Operating-System) | Edge computing OS for Pi fleet |
-| [BlackRoad AI Dashboard](https://github.com/blackboxprogramming/blackroad-ai-dashboard) | Real-time AI fleet monitoring |
-| [BlackRoad Chrome Extension](https://github.com/blackboxprogramming/blackroad-chrome-extension) | Browser extension for fleet monitoring |
+## License
+
+**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
+
+Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
+
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+<div align="center">
+
+**BlackRoad OS — Pave Tomorrow.**
+
+[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
+
+</div>
